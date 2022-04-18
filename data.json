@@ -1,0 +1,50 @@
+{
+    "I1": {
+        "Name": "Tandoori Paneer Tikka",
+        "Quantity": "200gm",
+        "Price": "500",
+        "Discount": "10",
+        "FinalPrice": 450.0,
+        "stockLeft": "3000gm"
+    },
+    "I2": {
+        "Name": "Raja Kebab",
+        "Quantity": "200gm",
+        "Price": "250",
+        "Discount": "10",
+        "FinalPrice": 225.0,
+        "stockLeft": "3000gm"
+    },
+    "I3": {
+        "Name": "Shami Kebab",
+        "Quantity": "200gm",
+        "Price": "320",
+        "Discount": "10",
+        "FinalPrice": 288.0,
+        "stockLeft": "3000gm"
+    },
+    "I4": {
+        "Name": "Handi Dum Parda Biryani",
+        "Quantity": "250gm",
+        "Price": "190",
+        "Discount": "10",
+        "FinalPrice": 171.0,
+        "stockLeft": "3000gm"
+    },
+    "I5": {
+        "Name": "Veg. Hyderabadi Biryani",
+        "Quantity": "200gm",
+        "Price": "290",
+        "Discount": "10",
+        "FinalPrice": 261.0,
+        "stockLeft": "3000gm"
+    },
+    "I6": {
+        "Name": "Chicken Dum Biryani",
+        "Quantity": "280 gms",
+        "Price": "600",
+        "Discount": "15",
+        "FinalPrice": 560.0,
+        "stockLeft": "2000 gms"
+    }
+}
